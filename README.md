@@ -14,7 +14,7 @@
 
 第二步：Annatations文件夹
 
-LabelImg标注工具手动标注可自动生成图片信息的xml文件，主要有VOC以及YOLO两种数据格式，此外http://darkpgmr.tistory.com/16为附带目标追踪的图像标注工具，方便视频下的目标标注，文件格式为txt。
+LabelImg标注工具手动标注可自动生成图片信息的xml文件，主要有VOC以及YOLO两种数据格式，此外http://darkpgmr.tistory.com/16 为附带目标追踪的图像标注工具，方便视频下的目标标注，文件格式为txt。
 
 
 第三步：ImageSets文件夹中的Main文件夹中的四个文件
