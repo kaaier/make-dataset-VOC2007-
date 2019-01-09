@@ -8,7 +8,7 @@
         ├── JPEGImages       #存放图片，同Annotations中的xml文件一一对应。    
 
 
-第一步：JPEGSImages文件夹
+ 第一步：JPEGSImages文件夹
 
 1)把你的图片放到JPEGSImages里面，在VOC2007里面，图片文件名都是000001.jpg类似这样的，我们也统一格式，把我们的图片名字重命名成这样的，详见change_img_name.py
 
